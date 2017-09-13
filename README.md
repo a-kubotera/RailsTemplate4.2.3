@@ -6,7 +6,7 @@ Rails ver 4.2.3 / ruby ver 2.3.0
 
 ① git clone
 
-$`git clone git@github.com:a-kubotera/RailsTemplate.git` [アプリ名]
+$`git clone git@github.com:a-kubotera/RailsTemplate4.2.3` [アプリ名]
 
 ② ディレクトリ移動
 
