@@ -28,11 +28,7 @@ DATABASENAME="[データベース名]"
 ⑤ bundle install
 
 $`be bundle install --path vendor/bundle`
-
-⑥？？？
-
-$`spring stop`<br>
-$`bin/spring`<br>
+$`bundle install`
 
 ⑦ データベース作成
 
