@@ -27,7 +27,7 @@ DATABASENAME="[データベース名]"
 
 ⑤ bundle install
 
-$`be bundle install --path vendor/bundle`
+$`be bundle install --path vendor/bundle`<br>
 $`bundle install`
 
 ⑦ データベース作成
