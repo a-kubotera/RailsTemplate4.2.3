@@ -11,7 +11,6 @@ gem 'sdoc', group: :doc # Rubyのソースを読み取り、ブラウザで閲�
 gem 'jquery-rails'
 gem 'coffee-rails'
 
-gem 'font-awesome-rails' #アイコンタグを挿入するヘルパーメソッドを提供
 gem 'uglifier' #JSのコード軽量化ライブラリ。UglifyJS2をrubyで使えるようにしたもの
 gem 'sass-rails'
 gem 'jbuilder'
